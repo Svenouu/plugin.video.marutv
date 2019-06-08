@@ -154,7 +154,7 @@ def extract_video_url(url):
     return resolved
 
 def tryresolveurl(vid_url):
-    if 'k-vid.net' in vid_url:
+    if 'k-vid.net' in vid_url or 'dramacool9' in vid_url:
         return resolveurl_kvid(vid_url)
     elif 'verystream' in vid_url:
         return resolveurl_verystream(vid_url)
