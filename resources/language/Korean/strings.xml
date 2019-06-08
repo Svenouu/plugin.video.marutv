@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="30000">MaruTV</string>
+    <string id="30001">미리보기 지원</string>
+    <string id="30002">유튜브 화질</string>
+    <string id="30003">데일리모션 화질</string>
+    <string id="30004">선호 화질</string>
+    <string id="30005">Dailymotion은 플러그인으로 재생</string>
+    <string id="30006">대체 파서 사용</string>
+    <string id="30007">URL Base</string>
+    <string id="30008">URL Base Live TV</string>
+    <string id="30100">이전 페이지</string>
+    <string id="30101">다음 페이지</string>
+</strings>

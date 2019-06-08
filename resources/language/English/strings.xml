@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <string id="30000">MaruTV</string>
+    <string id="30001">Show Thumbnail</string>
+    <string id="30002">Youtube Qualit</string>
+    <string id="30003">Dailymotion Qualit</string>
+    <string id="30004">Qualit Preference</string>
+    <string id="30005">Play Dailymotion clip with Plugin</string>
+    <string id="30006">use Alternative Parser</string>
+    <string id="30007">URL Base</string>
+    <string id="30008">URL Base Live TV</string>
+    <string id="30100">Previous Page</string>
+    <string id="30101">Next Page</string>
+</strings>
